@@ -1,0 +1,2 @@
+[ 2025-07-03 01:45:35,909 ] 28 root - INFO - Entered the data ingestion method for Credit Card Fraud Detection
+[ 2025-07-03 01:45:35,910 ] 25 root - ERROR - Error occurred in python script [C:\Users\Tushar\OneDrive\Desktop\Machine_Learning\ML\ML_Project_Credit_Card_Fraud_Detection\src\components\data_ingestion.py] at line [31]: [Errno 2] No such file or directory: 'notebook/data/creditcard.csv'
